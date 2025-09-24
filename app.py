@@ -14,7 +14,7 @@ st.set_page_config(
 st.sidebar.image("Giro.png", width=250)
 st.sidebar.title('Somente  💣💣')
 
-fofocas = ["Anomimos", "Famosos"]
+fofocas = ["Anonimos", "Famosos"]
 opcao = st.sidebar.selectbox('Escolha a bomba da semana', fofocas)
 
 # Adicionar uma descrição na sidebar
@@ -101,4 +101,5 @@ st.markdown("""
 
 # Rodapé
 st.markdown("---")
+
 st.markdown("© 2025 Giro dos Famosos e Anônimos - Todas as bombas são para o entretenimento")
