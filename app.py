@@ -102,4 +102,4 @@ st.markdown("""
 # Rodapé
 st.markdown("---")
 
-st.markdown("© 2025 Giro dos Famosos e Anônimos - Todas as bombas são para o entretenimento")
+st.markdown("© 2026 Giro dos Famosos e Anônimos - Todas as bombas são para o entretenimento")
